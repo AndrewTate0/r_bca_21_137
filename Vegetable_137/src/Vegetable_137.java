@@ -6,11 +6,11 @@ public class Vegetable_137 {
 	{
 		this.color=color;
 	}
-	String name;
+	String names;
 	
-	Vegetable_137(String name)
+	Vegetable_137(String names)
 	{
-		this.name=name;
+		this.names=names;
 	}	
 
 }
